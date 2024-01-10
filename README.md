@@ -1,2 +1,2 @@
-# GenAi_Uni
+# genai_uni
 Gen-Ai University
