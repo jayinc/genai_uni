@@ -2,6 +2,7 @@
 
 * [🤓 Delivering Impactful Generative AI Projects](README.md)
   * [🗓 Event Details](delivering-impactful-generative-ai-projects/event-details.md)
+* [Slides](slides.md)
 * [👋 Welcome to A Product](welcome-to-a-product.md)
 
 ## Overview
